@@ -2,7 +2,7 @@ import React from "react";
 
 function Hero() {
   return (
-    <div className="max-w-[1360px] mx-auto px-4 ">
+    <div className="max-w-[1300px] mx-auto px-4 ">
       {/* Flexcontainer */}
       <div className="flex flex-col-reverse items-center px-6 mx-auto mt-10 space-y-0 md:space-y-0 md:flex-row  ">
         {/* left item */}
