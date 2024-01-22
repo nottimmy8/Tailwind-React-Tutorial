@@ -13,8 +13,8 @@ function App() {
       <Hero />
       <Features />
       <Testimonails />
-      <Footer />
       <CTA />
+      <Footer />
     </div>
   );
 }
